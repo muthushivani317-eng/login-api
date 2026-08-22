@@ -18,7 +18,6 @@ A professional Login API built using Python and Flask.
 **Method:** POST
 
 **URL:**
-
 http://127.0.0.1:5000/login
 
 ## Request Body
